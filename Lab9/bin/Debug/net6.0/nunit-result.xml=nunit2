@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="1" result="Passed" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1" engine-version="3.16.0.0" clr-version="4.0.30319.42000" start-time="2022-12-03 22:57:29Z" end-time="2022-12-03 22:57:44Z" duration="15.641408">
+  <command-line><![CDATA["C:\Program Files (x86)\NUnit.org\nunit-console\nunit3-console.exe"  D:\Lab\Lab9\Lab9\bin\Debug\net6.0\Lab9.dll --result:nunit-result.xml=nunit2]]></command-line>
+  <test-suite type="Assembly" id="1-1002" name="Lab9.dll" fullname="D:/Lab/Lab9/Lab9/bin/Debug/net6.0/Lab9.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-12-03T22:57:29.5005953Z" end-time="2022-12-03T22:57:44.7176131Z" duration="15.216970" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+    <environment framework-version="3.13.3.0" clr-version="6.0.11" os-version="Microsoft Windows 10.0.19044" platform="Win32NT" cwd="D:\Lab\Lab9\Lab9\bin\Debug\net6.0" machine-name="WIN-1BTU9SLRC5T" user="Yan" user-domain="WIN-1BTU9SLRC5T" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="D:\Lab\Lab9\Lab9\bin\Debug\net6.0" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETCoreApp,Version=v6.0" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="TargetRuntimeFramework" value="netcore-6.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="24044" />
+      <property name="_APPDOMAIN" value="nunit-agent" />
+    </properties>
+    <test-suite type="TestSuite" id="1-1003" name="Lab9" fullname="Lab9" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-12-03T22:57:29.5038381Z" end-time="2022-12-03T22:57:44.7176037Z" duration="15.213765" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+      <test-suite type="TestFixture" id="1-1000" name="Tests" fullname="Lab9.Tests" classname="Lab9.Tests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-12-03T22:57:29.5047640Z" end-time="2022-12-03T22:57:44.7173896Z" duration="15.212626" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-case id="1-1001" name="RemoveFromCart" fullname="Lab9.Tests.RemoveFromCart" methodname="RemoveFromCart" classname="Lab9.Tests" runstate="Runnable" seed="2112201127" result="Passed" start-time="2022-12-03T22:57:29.5061017Z" end-time="2022-12-03T22:57:44.7157006Z" duration="15.209652" asserts="1" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
